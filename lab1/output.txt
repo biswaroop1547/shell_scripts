@@ -1,0 +1,29 @@
+1. States.txt created
+2. Capitals.txt created
+3. Capitals inserted into capitals.txt
+4. First 3 states in states.txt are :
+Arunachal Pradesh
+Assam
+Bihar
+5. First word of each state in states.txt are :
+Arunachal
+Assam
+Bihar
+Chhattisgarh
+Goa
+Gujarat
+Haryana
+Himachal
+Mizoram
+Jharkhand
+6. Capitals containing the letter 'i' :
+Guwahati
+Raipur
+Panaji
+Gandhinagar
+Chandigarh
+Shimla
+Aizwal
+Ranchi
+
+Done, exiting!..
