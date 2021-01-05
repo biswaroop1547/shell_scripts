@@ -15,6 +15,6 @@ done
 cat -n absentees
 
 
-#diff --new-line-format="" --unchanged-line-format="" <(sort g2) <(grep -o "[0-9]\{7\}\s*$" chat.txt | sed "s/\s//g" | sort -u)
+#echo $(diff --new-line-format="" --unchanged-line-format="" <(sort g2) <(grep -o "[0-9]\{7\}\s*$" chat.txt | sed "s/\s//g" | sort -u))
 
 # one liner for this task.
